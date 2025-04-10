@@ -2,18 +2,18 @@
 
 ### Introduction
 
-Multiple linear regression helps data professionals estimate the linear relationship between one continuous dependent variable and two or more independent variables. This is a useful skill because it enables you to compare more than one variable against the variable you're measuring. This provides the opportunity for much more thorough and flexible analysis.
+#### Multiple linear regression helps data professionals estimate the linear relationship between one continuous dependent variable and two or more independent variables. This is a useful skill because it enables you to compare more than one variable against the variable you're measuring. This provides the opportunity for much more thorough and flexible analysis.
 
-In this project, I will analyse a small business's historical marketing promotion data. Each row corresponds to an independent marketing promotion where the business uses TV, social media, radio, and influencer promotions to increase sales. The stakeholders are interested in finding variables that predict sales to help them target their marketing efforts.
+#### In this project, I will analyse a small business's historical marketing promotion data. Each row corresponds to an independent marketing promotion where the business uses TV, social media, radio, and influencer promotions to increase sales. The stakeholders are interested in finding variables that predict sales to help them target their marketing efforts.
 
-To address the business request, I will conduct a multiple linear regression analysis to estimate sales from a combination of independent variables. This will include:
-•	Exploring and cleaning data
-•	Using plots and descriptive statistics to select the independent variables
-•	Creating a fitting multiple linear regression model
-•	Checking model assumptions
-•	Interpreting model outputs and communicating the results to non-technical stakeholders
+#### To address the business request, I will conduct a multiple linear regression analysis to estimate sales from a combination of independent variables. This will include:
+#### •	Exploring and cleaning data
+#### •	Using plots and descriptive statistics to select the independent variables
+#### •	Creating a fitting multiple linear regression model
+#### •	Checking model assumptions
+#### •	Interpreting model outputs and communicating the results to non-technical stakeholders
 
-Step 1: Import packages and load dataset
+#### Step 1: Import packages and load dataset
 Step 2: Exploratory Data Analysis
 The features in the data are:
 •	TV promotional budget (in "Low," "Medium," and "High" categories)
